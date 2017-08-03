@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_bar_title">Battery Bar</string>
+    <string name="battery_settings_summary">Custom battery &amp; battery bar options</string>
+    <string name="alarm_blocker">Alarm Blocker</string>
+    <string name="nav_bar_dynamic_summary">Enable to adapt navbar background to app\'s primary dark color</string>
+    <string name="pulse_help_policy_notice_summary">Pulse is a brilliant audio graphic equalizer on the navigation bar when music plays. Pulse does not work with some audio sources when listening on device speaker.</string>
+    <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if available</string>
+    <string name="statusbar_weather_summary">Configure from QS Settings -> Weather</string>
+    <string name="misc">Miscellaneous Tweaks</string>
+    <string name="blur_ui_category_title">Blur Personalization</string>
+    <string name="qs_bt_easy_toggle_summary">Enable one tap action to enable or disable Bluetooth</string>
+    <string name="qs_battery_easy_toggle_summary">Enable one tap action to enable or disable Battery Saver</string>
+</resources>

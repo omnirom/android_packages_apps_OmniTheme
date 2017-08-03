@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_grey_300">@android:color/holo_blue_dark</color>
+    <color name="card_background_grey">@android:color/holo_blue_light</color>
+    <color name="card_background">@android:color/holo_blue_dark</color>
+    <color name="cardview_light_background">@android:color/transparent</color>
+    <color name="dashboard_background_color">@android:color/holo_blue_dark</color>
+    <color name="dashboard_category_title_background">@android:color/holo_blue_dark</color>
+    <color name="data_usage_fill_color">@android:color/holo_blue_bright</color>
+    <color name="data_usage_series_details_fill_color">#ffffffff</color>
+    <color name="data_usage_series_fill_color">#ffffffff</color>
+    <color name="switch_accent_color">@android:color/holo_blue_bright</color>
+    <color name="memory_normal">@android:color/holo_blue_bright</color>
+    <color name="memory_max_use">@android:color/holo_blue_bright</color>
+    <color name="storage_summary_title_color">@android:color/holo_blue_bright</color>
+    <color name="theme_primary">@android:color/holo_blue_light</color>
+    <color name="theme_primary_dark">@android:color/holo_blue_dark</color>
+    <color name="theme_accent">@android:color/holo_blue_bright</color>
+    <color name="accent_material_light">@android:color/holo_blue_bright</color>
+    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+    <color name="material_deep_teal_200">@android:color/holo_blue_light</color>
+    <color name="material_deep_teal_500">@android:color/holo_blue_bright</color>
+    <color name="text_color_black">@android:color/white</color>
+    <color name="material_empty_color_light">@android:color/holo_blue_light</color>
+    <color name="switchbar_background_color">#ff292929</color>
+    <color name="confirm_device_credential_dark_background">@android:color/holo_blue_dark</color>
+    <color name="material_blue_500">@android:color/holo_blue_bright</color>
+    <color name="material_blue_grey_900">@android:color/holo_blue_dark</color>
+    <color name="summary_default_start">@android:color/holo_blue_bright</color>
+    <color name="running_processes_apps_ram">@android:color/holo_blue_bright</color>
+    <color name="running_processes_system_ram">@android:color/holo_green_dark</color>
+    <color name="running_processes_free_ram">#ff303030</color>
+    <color name="icon_accent">@android:color/holo_blue_bright</color>
+    <color name="material_blue_grey_950">@android:color/holo_blue_dark</color>
+    <color name="suw_navbar_bg_dark">@android:color/holo_blue_dark</color>
+    <color name="lock_pattern_view_regular_color">@android:color/white</color>
+    <color name="lock_pattern_view_success_color">@android:color/holo_blue_bright</color>
+    <!-- <color name="external_icon_tint">@android:color/white</color>
+    <color name="external_tile_icon_tint_color">@android:color/white</color> -->
+    <color name="gestures_switchbar_color">@android:color/holo_blue_dark</color>
+    <color name="suw_color_accent_glif_dark">@android:color/holo_blue_bright</color>
+    <color name="suw_color_accent_glif_light">@android:color/holo_blue_bright</color>
+    <color name="gestures_setting_background_color">@android:color/holo_blue_light</color>
+    <color name="divider_color">@android:color/holo_blue_bright</color>
+    <color name="linear_color_bar_right">@android:color/holo_blue_light</color>
+    <color name="ga_gesture_color">@android:color/holo_blue_bright</color>
+
+    <!-- AOSiP -->
+    <color name="color_picker_help_screen_background">@android:color/holo_blue_dark</color>
+    <color name="color_picker_help_summary_text_color">@android:color/white</color>
+    <color name="background_aosip_blue_grey">@android:color/holo_blue_dark</color>
+    <color name="icon_tint_color">@android:color/holo_blue_bright</color>
+    <color name="action_picker_fab_background">@android:color/holo_blue_bright</color>
+    <color name="dslv_icon_dark">@android:color/holo_blue_bright</color>
+    <color name="dslv_float_cackground_color">@android:color/holo_blue_dark</color>
+    <color name="dslv_float_background_color">@android:color/holo_blue_dark</color>
+    <color name="expanded_button_color_normal">@android:color/holo_blue_bright</color>
+    <color name="expanded_button_color_close">@android:color/holo_green_dark</color>
+    <color name="expanded_app_title_color">@android:color/white</color>
+    <color name="appops_accent_color">@android:color/holo_blue_bright</color>
+
+    <!-- Dirty Unicorns -->
+    <color name="expanded_item_app_title">@android:color/white</color>
+    <color name="bluetooth_pairing_caption">@android:color/white</color>
+    <color name="bluetooth_pairing_code_message">@android:color/white</color>
+    <color name="bluetooth_phonebook_sharing_message_confirm_pin">@android:color/white</color>
+    <color name="dt_tab_color">@android:color/holo_blue_bright</color>
+    <color name="dt_tab_text_color">@android:color/white</color>
+    <color name="dt_tab_background_color">@android:color/holo_blue_dark</color>
+
+    <!-- Screw'd -->
+    <color name="darkColorPrimary">@android:color/holo_blue_bright</color>
+    <color name="darkColorPrimaryDark">@android:color/holo_blue_dark</color>
+    <color name="darkColorAccent">@android:color/holo_blue_bright</color>
+    <color name="background_tab_pressed">@*android:color/ripple_material_dark</color>
+    <color name="darkScrewdPrimary">@android:color/holo_blue_bright</color>
+    <color name="darkScrewdPrimaryDark">@android:color/holo_blue_dark</color>
+    <color name="darkScrewdAccent">@android:color/holo_blue_bright</color>
+
+    <!-- RR -->
+    <color name="secondary_text">@android:color/white</color>
+    <color name="fab_label_background">@android:color/holo_green_dark</color>
+</resources>
