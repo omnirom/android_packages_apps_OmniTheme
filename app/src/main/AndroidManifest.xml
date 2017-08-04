@@ -6,7 +6,7 @@
 
     <uses-sdk android:minSdkVersion='25'
               android:targetSdkVersion='25' />
-    
+
     <uses-permission android:name="android.permission.INTERNET" />
 	
 	<uses-feature
@@ -15,7 +15,7 @@
 
     <application
         android:allowBackup="false"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/omnirom_logo"
         android:label="@string/ThemeName"
         android:supportsRtl="true"
         android:theme="@style/DialogStyle"
