@@ -4,7 +4,9 @@
           package="org.omnirom.daynight"
           android:installLocation="internalOnly">
 
-    <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
+    <uses-sdk android:minSdkVersion='25'
+              android:targetSdkVersion='25' />
+    
     <uses-permission android:name="android.permission.INTERNET" />
 	
 	<uses-feature
@@ -41,16 +43,13 @@
             android:value="@string/ThemeAuthor"/>
         <meta-data
             android:name="Substratum_Email"
-            android:value=""/> <!-- Insert your email for bug reports -->
+            android:value=""/>
         <meta-data
             android:name="Substratum_Samsung"
             android:value="false"/>
-        <!-- Do you support Stock and Theme Ready Gapps? -> all -->
-        <!-- Do you support Theme Ready but not Stock Gapps? -> ready -->
-        <!-- Do you support Stock but not Theme Ready Gapps? -> stock -->
         <meta-data
             android:name="Substratum_ThemeReady"
-            android:value="all"/> <!-- Only pick one! -->
+            android:value="stock"/>
         <meta-data
             android:name="Substratum_Wallpapers"
             android:value="http://pastebin.com/raw/TG4mFdXz"/>

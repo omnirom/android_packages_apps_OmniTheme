@@ -24,7 +24,7 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.github.javiersantos:PiracyChecker:1.1'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     compile project(':substrate')
+    compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
 }
