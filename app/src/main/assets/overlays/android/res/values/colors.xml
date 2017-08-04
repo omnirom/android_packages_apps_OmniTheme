@@ -11,6 +11,11 @@
     <color name="highlighted_text_light">@android:color/holo_blue_bright</color>
     <color name="link_text_dark">@android:color/holo_blue_bright</color>
     <color name="link_text_light">@android:color/holo_blue_bright</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#de000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
 	
 	<!-- System colors -->
 	<color name="material_deep_teal_200">@android:color/holo_blue_bright</color>
@@ -38,4 +43,10 @@
 
     <!-- Misc -->
     <color name="legacy_light_button_normal">@android:color/white</color> <!-- Settings category header bg -->
+    <color name="notification_action_list">#ffeeeeee</color>
+    <color name="notification_action_list_dark">#ffe0e0e0</color>
+    <color name="notification_default_color">@android:color/holo_blue_bright</color>
+    <color name="notification_icon_default_color">@android:color/holo_blue_bright</color>
+    <color name="notification_text_default_color">@android:color/holo_blue_bright</color>
+
 </resources>
