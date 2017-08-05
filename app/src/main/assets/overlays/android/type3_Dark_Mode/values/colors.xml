@@ -59,10 +59,7 @@
 	<!-- Text colors -->
 	<color name="config_defaultNotificationColor">@android:color/holo_blue_bright</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
-    <color name="primary_text_default_material_light">#ffffffff</color>
     <color name="secondary_text_default_material_dark">#ffaaaaaa</color>
-    <color name="secondary_text_default_material_light">#ffaaaaaa</color>
-
     <color name="suggestion_highlight_text">@android:color/holo_blue_bright</color>
 
     <!-- Misc -->
