@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="all_apps_divider_color">@android:color/holo_blue_bright</color>
+    <color name="all_apps_caret_color">@android:color/holo_blue_bright</color>
+</resources>
