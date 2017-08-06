@@ -2,7 +2,5 @@
 <resources>
     <style name="ActionBarPopupTheme" parent="@android:style/ThemeOverlay.Material" />
     <style name="ActionBarTheme" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar" />
-    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
-        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
-    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material" />
 </resources>

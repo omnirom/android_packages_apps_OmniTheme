@@ -5,4 +5,5 @@
     <color name="accent">@android:color/holo_blue_bright</color>
     <color name="accent_dark">@*android:color/holo_green_dark</color>
     <color name="action_mode">@android:color/holo_blue_bright</color>
+    <color name="item_doc_background_selected">@*android:color/legacy_orange</color>
 </resources>
