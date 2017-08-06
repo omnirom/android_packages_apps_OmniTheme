@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@*android:style/Theme.Material.NoActionBar" />
+
+    <style name="BugleTheme.DialogActivity" parent="@*com.android.messaging:style/Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:background">@android:color/holo_green_light</item>
+    </style>
+
+    <style name="BugleTheme.ConversationListActivity" parent="@*com.android.messaging:style/BugleTheme">
+        <item name="android:windowBackground">@android:color/holo_green_light</item>
+    </style>
+
+    <style name="ActionBarPopupTheme" parent="@android:style/ThemeOverlay.Material" />
+
+    <style name="NotificationSenderText">
+    </style>
+
+    <style name="NotificationSecondaryText">
+    </style>
+
+    <style name="NotificationTertiaryText">
+    </style>
+
+    <style name="NotificationSubjectText">
+    </style>
+</resources>

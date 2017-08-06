@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="DocumentsTheme" parent="@*com.android.documentsui:style/DocumentsThemeDark" />
+    <style name="ActionBarPopupTheme" parent="@android:style/ThemeOverlay.Material" />
+    <style name="ActionBarTheme" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar" />
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:navigationBarColor">@android:color/holo_blue_dark</item>
+    </style>
 </resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NotificationSenderText">
+    </style>
+
+    <style name="NotificationSecondaryText">
+    </style>
+
+    <style name="NotificationTertiaryText">
+    </style>
+
+    <style name="NotificationSubjectText">
+    </style>
+</resources>
