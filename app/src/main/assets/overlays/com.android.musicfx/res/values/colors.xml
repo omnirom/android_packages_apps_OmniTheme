@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">@android:color/holo_blue_bright</color>
+    <color name="primaryColorDark">@*android:color/holo_green_dark</color>
+    <color name="accentColor">@android:color/holo_blue_bright</color>
+    <color name="visualizer_highlight">@android:color/holo_blue_bright</color> <!-- equalizer active level bar top element  -->
+    <color name="visualizer_lowlight">@*android:color/legacy_orange</color> <!-- equalizer active level bar other elements  -->
+    <color name="toolbar_thumb_color">#ff5252</color>
+</resources>
