@@ -30,4 +30,5 @@
     <color name="notification_shade_background_color">@android:color/holo_blue_light</color>
     <color name="notification_guts_bg_color">@android:color/holo_blue_light</color>
     <color name="notification_guts_buttons">@android:color/holo_blue_bright</color>
+    <color name="keyguard_overflow_content_color">#ffffff</color>
 </resources>

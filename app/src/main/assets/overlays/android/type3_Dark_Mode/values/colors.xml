@@ -69,5 +69,5 @@
     <color name="notification_default_color">@android:color/holo_blue_bright</color>
     <color name="notification_icon_default_color">@android:color/holo_blue_bright</color>
     <color name="notification_text_default_color">@android:color/holo_blue_bright</color>
-
+    <color name="notification_gear_color">#ffffff</color>
 </resources>
