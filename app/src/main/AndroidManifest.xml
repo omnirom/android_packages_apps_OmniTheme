@@ -32,6 +32,12 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".OmniSubstratumLauncher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+
         <meta-data
             android:name="Substratum_Legacy"
             android:value="false"/>
