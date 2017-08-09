@@ -2,14 +2,16 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
           package="org.omnirom.daynight"
-          android:installLocation="internalOnly">
+          android:installLocation="internalOnly"
+          android:versionCode="2"
+          android:versionName="2.0" >
 
     <uses-sdk android:minSdkVersion='25'
               android:targetSdkVersion='25' />
 
     <uses-permission android:name="android.permission.INTERNET" />
-	
-	<uses-feature
+
+    <uses-feature
         android:name="projekt.substratum.theme"
         android:required="false" /> <!-- Set to true for block to be enabled -->
 
