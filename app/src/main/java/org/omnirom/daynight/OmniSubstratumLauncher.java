@@ -126,8 +126,7 @@ public class OmniSubstratumLauncher extends Activity {
         boolean theme_legacy = originalIntent.getBooleanExtra("theme_legacy", false);
         boolean refresh_mode = originalIntent.getBooleanExtra("refresh_mode", false);
         Intent intent = new Intent("android.intent.action.MAIN");
-        intent.setComponent(ComponentName.unflattenFromString("org.omnirom.substratum/projekt.substratum.InformationActivity"));
-        intent.addCategory("android.intent.category.LAUNCHER");
+        intent.setComponent(ComponentName.unflattenFromString("org.omnirom.substratum/projekt.substratum.OmniActivity"));
         intent.setFlags(268435456);
         intent.addFlags(67108864);
         intent.putExtra("theme_name", theme_name);
