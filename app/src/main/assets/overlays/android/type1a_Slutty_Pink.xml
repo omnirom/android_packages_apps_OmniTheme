@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_bright">#ff206e</color> <!-- Main color -->
+    <color name="holo_green_dark">#e90052</color> <!-- Statusbar primary color -->
+    <color name="legacy_orange">#ffff005a</color> <!-- Trans primary color -->
+</resources>
