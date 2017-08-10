@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ec84463_1338ff7d",
+        "filename": "app/src/main/assets/overlays/android/type3_Dark_Blue_Mode/values/colors.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000026
+      },
+      "writtenOn": "2017-08-10T23:52:26Z",
+      "side": 1,
+      "message": "please convert files once - I know old files are wrong too but new ones should start correct",
+      "revId": "e295bf8a43faf92f001b985d7ec5eda369335ae0",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
