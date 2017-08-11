@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_primary_color">@android:color/holo_blue_dark</color>
+    <color name="system_secondary_color">@android:color/holo_blue_light</color>
+    <color name="system_accent_color">@android:color/holo_blue_bright</color>
+    <color name="qs_detail_progress_track">@*android:color/legacy_orange</color>
+    <color name="screen_pinning_nav_icon_highlight_outer">@*android:color/legacy_orange</color>
+    <color name="screen_pinning_request_bg">@android:color/holo_blue_dark</color>
+    <color name="zen_introduction_message_background">@android:color/holo_blue_bright</color>
+    <color name="qs_detail_button">@android:color/holo_blue_bright</color>
+    <color name="screen_pinning_primary_text">@android:color/white</color>
+    <color name="qs_edit_item_decoration_bg">@android:color/holo_blue_dark</color>
+
+    <!-- QS battery % text color -->
+    <color name="qs_battery_text_color">@android:color/holo_blue_bright</color>
+
+    <!-- QS battery graph text color -->
+    <color name="qs_battery_graph_text_color">@android:color/white</color>
+
+    <!-- QS battery accent color -->
+    <color name="qs_battery_accent">@android:color/holo_blue_bright</color>
+
+    <!-- QS date usage text color -->
+    <color name="data_usage_primary">@android:color/holo_blue_bright</color>
+
+
+    <color name="notification_material_background_color">@android:color/holo_blue_dark</color>
+    <color name="notification_material_background_dimmed_color">@android:color/holo_blue_dark</color>
+    <color name="notification_material_background_low_priority_color">@android:color/holo_blue_dark</color>
+    <color name="notification_shade_background_color">@android:color/holo_blue_light</color>
+    <color name="notification_guts_bg_color">@android:color/holo_blue_light</color>
+    <color name="notification_guts_buttons">@android:color/holo_blue_bright</color>
+    <color name="keyguard_overflow_content_color">#ffffff</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.NotificationGuts" parent="@*com.android.systemui:style/TextAppearance.NotificationGuts">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.NotificationGuts.Header" parent="@*com.android.systemui:style/TextAppearance.NotificationGuts.Header">
+        <item name="android:textColor">@android:color/holo_blue_bright</item>
+    </style>
+    <style name="TextAppearance.NotificationGuts.Secondary" parent="@*com.android.systemui:style/TextAppearance.NotificationGuts.Secondary">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.NotificationGuts.Radio" parent="@*com.android.systemui:style/TextAppearance.NotificationGuts.Radio">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.NotificationGuts.Button" parent="@*com.android.systemui:style/TextAppearance.NotificationGuts.Button">
+        <item name="android:textColor">@android:color/holo_blue_bright</item>
+    </style>
+</resources>
