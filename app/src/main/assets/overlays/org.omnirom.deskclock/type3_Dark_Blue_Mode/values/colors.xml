@@ -4,5 +4,5 @@
     <color name="primary_dark">@*android:color/holo_green_dark</color>
     <color name="accent">@android:color/holo_blue_bright</color>
     <color name="view_background_dark">@android:color/holo_blue_light</color>
-    <color name="window_background_dark">@android:color/holo_blue_dark</color>
+    <color name="window_background_dark">@android:color/holo_green_light</color>
 </resources>
