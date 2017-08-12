@@ -7,7 +7,7 @@
     <color name="material_deep_teal_500">@android:color/holo_blue_bright</color>
     <color name="material_blue_500">@android:color/holo_blue_bright</color>
     <color name="switch_accent_color">@android:color/holo_blue_bright</color>
-    <color name="switchbar_background_color">#ff292929</color>
+    <color name="switchbar_background_color">@android:color/holo_blue_light</color>
     <color name="ga_gesture_color">@android:color/holo_blue_bright</color>
     <color name="data_usage_fill_color">@android:color/holo_blue_bright</color>
     <color name="memory_normal">@android:color/holo_blue_bright</color>
