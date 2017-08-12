@@ -10,7 +10,7 @@
     <color name="theme_information_card_divider">@android:color/holo_blue_dark</color>
     <color name="theme_information_card_subtext">#80ffffff</color>
     <color name="overlay_not_installed_list_entry">#ffffff</color>
-    <color name="main_screen_card_background">@android:color/holo_blue_dark</color>
+    <color name="main_screen_card_background">@android:color/holo_blue_light</color>
     <color name="main_screen_card_theme_title">#ffffff</color>
     <color name="main_screen_card_theme_author">#d0ffffff</color>
 </resources>
