@@ -2,8 +2,8 @@
 <resources>
     <!-- Main color resources -->
     <color name="holo_blue_dark">#ff0d2029</color> <!-- Primary background color -->
-    <color name="holo_blue_light">#ff182a33</color> <!-- Light background color -->
-    <color name="holo_green_light">#ff263238</color> <!-- Darker background color -->
+    <color name="holo_blue_light">#ff182a33</color> <!-- Dark background color -->
+    <color name="holo_green_light">#ff263238</color> <!-- Light background color -->
 
     <!-- Framework colors -->
     <!-- Text colors -->
