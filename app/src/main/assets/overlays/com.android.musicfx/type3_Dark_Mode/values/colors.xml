@@ -8,14 +8,14 @@
     <color name="spinner_bg_color">@*android:color/background_floating_material_dark</color> <!-- spinner box -->
     <color name="spinner_txt_area_color">@*android:color/background_floating_material_dark</color> <!-- "Reverb" txt area plus a small part at right of the spinner box -->
     <color name="spinner_reverb_list">@*android:color/background_floating_material_dark</color> <!-- Available "reverb" effects list background color-->
-    <color name="gallery_bg_color">@*android:color/button_material_dark</color> <!-- horizontal bar where you can scroll the eq presets (after the eq and before the knobs -->
+    <color name="gallery_bg_color">@*android:color/background_floating_material_dark</color> <!-- horizontal bar where you can scroll the eq presets (after the eq and before the knobs -->
     <color name="disabled_gallery_text">#ffaaaaaa</color> <!-- eq presets text color when musicfx is disabled -->
     <color name="highlight_gallery_text">@*android:color/accent_material_dark</color> <!-- eq presets text color when musicfx is on for the current selected preset -->
     <color name="lowlight_gallery_text">#ffdddddd</color> <!-- eq presets text color when musicfx is on for other available presets -->
     <color name="knobs_area_background">@android:color/holo_green_light</color> <!-- area around knobs also at right of the eq area -->
     <color name="eq_area_background">@android:color/holo_green_light</color> <!-- eq levels area -->
     <color name="mainBackgroundColor">@android:color/holo_green_light</color> <!-- horizontal empty space between the bar showing the current active out source and the eq levels area -->
-    <color name="current_out_source">@*android:color/button_material_dark</color> <!-- the bar with the current active out source icon and name -->
+    <color name="current_out_source">@*android:color/background_floating_material_dark</color> <!-- the bar with the current active out source icon and name -->
     <color name="visualizer_highlight">@android:color/holo_blue_bright</color> <!-- equalizer active level bar top element  -->
     <color name="visualizer_lowlight">@*android:color/legacy_orange</color> <!-- equalizer active level bar other elements  -->
     <color name="spinner_disabled">#ff999999</color> <!-- spinner color when set to none or musicfx is off -->
