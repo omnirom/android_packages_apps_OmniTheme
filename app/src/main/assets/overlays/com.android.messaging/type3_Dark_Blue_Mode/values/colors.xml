@@ -15,7 +15,7 @@
     <color name="message_bubble_color_selected">@*android:color/holo_green_dark</color>
     <color name="mms_indicator_color">@android:color/holo_blue_bright</color>
     <color name="conversation_background">@android:color/holo_green_light</color>
-    <color name="message_bubble_color_outgoing">@android:color/holo_blue_light</color>
+    <color name="message_bubble_color_outgoing">@android:color/holo_blue_dark</color>
     <color name="message_text_color_outgoing">#ffffff</color>
     <color name="timestamp_text_outgoing">#99ffffff</color>
     <color name="contact_list_text_primary">#ffffff</color>

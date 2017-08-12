@@ -13,7 +13,7 @@
     <color name="item_doc_grid_protect_background">#88ffffff</color>
     <color name="item_doc_background_disabled">#ff323232</color>
 
-    <color name="item_doc_background">@android:color/holo_blue_light</color>
+    <color name="item_doc_background">@android:color/holo_blue_dark</color>
     <color name="item_doc_background_selected">@*android:color/legacy_orange</color>
 
     <!-- OMNI -->
