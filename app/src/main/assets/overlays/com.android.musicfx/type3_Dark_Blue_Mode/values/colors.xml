@@ -19,5 +19,5 @@
     <color name="visualizer_highlight">@android:color/holo_blue_bright</color> <!-- equalizer active level bar top element  -->
     <color name="visualizer_lowlight">@*android:color/legacy_orange</color> <!-- equalizer active level bar other elements  -->
     <color name="spinner_disabled">#ff999999</color> <!-- spinner color when set to none or musicfx is off -->
-    <color name="toolbar_thumb_color">#ff5252</color>
+    <color name="toolbar_thumb_color">@android:color/holo_blue_light</color>
 </resources>
