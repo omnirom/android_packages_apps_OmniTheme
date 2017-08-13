@@ -11,7 +11,9 @@
         <item name="android:windowBackground">@android:color/holo_green_light</item>
     </style>
 
-    <style name="ActionBarPopupTheme" parent="@android:style/ThemeOverlay.Material" />
+    <style name="ActionBarPopupTheme" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar" >
+        <item name="android:colorBackground">@android:color/holo_blue_bright</item>
+    </style>
 
     <style name="NotificationSenderText">
     </style>
