@@ -8,7 +8,7 @@
     <color name="photo_background">@android:color/holo_green_light</color>
     <color name="cache_background">@android:color/holo_green_light</color>
     <color name="slideshow_background">@android:color/holo_green_light</color>
-    <color name="albumset_label_background">@android:color/holo_blue_light</color>
+    <color name="albumset_label_background">@android:color/holo_blue_dark</color>
     <color name="albumset_placeholder">@android:color/holo_blue_light</color>
     <color name="album_placeholder">@android:color/holo_blue_light</color>
 </resources>
