@@ -28,4 +28,5 @@
     <color name="text_highlight_color">@*android:color/highlighted_text_material</color>
     <color name="low_storage_action_item_color">#ffffff</color>
     <color name="contextual_action_bar_background_color">@android:color/holo_blue_bright</color>
+    <color name="compose_send_text_color">#ffffff</color>
 </resources>
