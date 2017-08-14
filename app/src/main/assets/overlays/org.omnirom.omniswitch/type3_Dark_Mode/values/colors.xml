@@ -3,4 +3,8 @@
     <color name="colorPrimary">@android:color/holo_blue_bright</color>
     <color name="colorPrimaryDark">@*android:color/holo_green_dark</color>
     <color name="colorAccent">@android:color/holo_blue_bright</color>
+    <color name="bg_flat_color_dark">@android:color/holo_blue_light</color>
+    <color name="bg_flat_color_dark_gradient">@android:color/holo_blue_light</color>
+    <color name="button_bg_flat_color">@android:color/holo_blue_dark</color>
+    <color name="button_bg_flat_color_gradient">@android:color/holo_blue_dark</color>
 </resources>
