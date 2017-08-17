@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dialer -->
+    <color name="dialtacts_primary_text_color">#ffffff</color>
+    <color name="dialtacts_secondary_text_color">#ffffff</color>
+    <color name="dialer_button_text_color">#ffffff</color>
+    <color name="dialer_flat_button_text_color">#ffffff</color>
+    <color name="dialer_snackbar_action_text_color">#ffffff</color>
+    <color name="setting_primary_color">#ffffff</color>
+    <color name="setting_secondary_color">#ffffff</color>
+    <color name="setting_background_color">@android:color/holo_blue_dark</color>
+    <color name="call_log_primary_color">#ffffff</color>
+    <color name="call_log_detail_color">#8affffff</color>
+    <color name="call_log_voicemail_transcript_color">#ffffff</color>
+    <color name="call_log_action_color">#ffffff</color>
+    <color name="call_log_day_group_heading_color">#ffffff</color>
+    <color name="call_log_unread_text_color">#ffffff</color>
+    <color name="promo_card_text">#ffffff</color>
+    <color name="background_dialer_white">@android:color/holo_blue_dark</color>
+    <color name="background_dialer_light">@android:color/holo_blue_dark</color>
+    <color name="background_dialer_results">@android:color/holo_blue_dark</color>
+    <color name="contact_tile_name_color">#ffffff</color>
+    <color name="contact_list_name_text_color">#ffffff</color>
+    <color name="undo_dialogue_text_color">#ffffff</color>
+    <color name="empty_list_text_color">#ffffff</color>
+    <color name="remove_text_color">#ffffff</color>
+    <color name="remove_highlighted_text_color">#ffffff</color>
+    <color name="call_log_action_text">#ffffff</color>
+    <color name="actionbar_icon_color">#ffffff</color>
+    <color name="dialer_dialpad_touch_tint">@android:color/holo_blue_bright</color>
+    <color name="blocked_number_background">@android:color/holo_blue_dark</color>
+    <color name="blocked_number_primary_text_color">#ffffff</color>
+    <color name="blocked_number_secondary_text_color">#ffffff</color>
+
+    <!-- Exposed colors Dialer -->
+    <color name="background_color_transparent">#00000000</color>
+    <color name="keyguard_preview_bg">#ffffff</color>
+    <color name="call_log_primary_background_color">@android:color/holo_blue_dark</color>
+    <color name="call_log_secondary_background_color">#333333</color>
+    <color name="call_log_header_color">#33b5e5</color>
+    <color name="call_log_voicemail_status_background_color">#262626</color>
+    <color name="call_log_voicemail_status_text_color">#888888</color>
+    <color name="call_log_voicemail_status_action_text_color">#33b5e5</color>
+    <color name="dialpad_text_color">#FFFFFF</color>
+    <color name="call_log_primary_bg_color">#FFFFFF</color>
+    <color name="call_log_secondary_bg_color">#FFFFFF</color>
+    <color name="call_log_header_color_dark">#FFFFFF</color>
+
+    <!-- Contacts Common -->
+    <color name="primary_text_color">#ffffffff</color>
+    <color name="section_header_text_color">#ffffffff</color>
+    <color name="people_app_theme_color">#ffffffff</color>
+    <color name="dialtacts_theme_color">@android:color/holo_blue_bright</color>
+    <color name="actionbar_background_color">@android:color/holo_blue_bright</color>
+    <color name="actionbar_background_color_dark">@android:color/holo_green_dark</color>
+    <color name="searchbox_text_color">#ffffff</color>
+    <color name="searchbox_background_color">@android:color/holo_blue_dark</color>
+    <color name="searchbox_hint_text_color">#80ffffff</color>
+    <color name="searchbox_icon_tint">#ffffff</color>
+    <color name="search_shortcut_icon_color">#ffffff</color>
+    <color name="background_primary">@android:color/holo_blue_dark</color>
+    <color name="contact_all_list_background_color">@android:color/holo_blue_dark</color>
+
+    <!-- Exposed colors Contacts Common-->
+    <color name="frequent_contact_text_color">@android:color/holo_blue_dark</color>
+    <color name="contact_tile_text_color">#ff202020</color>
+    <color name="starred_quick_contact_name_text_color">#ffffffff</color>
+    <color name="search_back_button_color">#ffffffff</color>
+
+    <!-- InCallUI -->
+    <color name="incall_background_color">@android:color/holo_blue_dark</color>
+    <color name="dialpad_digits_text_color">#ffffff</color>
+    <color name="incall_dialpad_background">@android:color/holo_blue_dark</color>
+    <color name="contact_context_title_text_color">#ffffffff</color>
+    <color name="person_contact_context_message_text_color">#ffffffff</color>
+    <color name="person_contact_context_message_background_color">@android:color/holo_blue_dark</color>
+    <color name="person_contact_context_detail_text_color">#ffffffff</color>
+    <color name="business_contact_context_text_color">#ffffffff</color>
+
+    <!-- Phone Common -->
+    <color name="dialer_theme_color">@android:color/holo_blue_bright</color>
+    <color name="dialer_theme_color_dark">@android:color/holo_green_dark</color>
+    <color name="background_dialpad">@android:color/holo_blue_dark</color>
+    <color name="dialpad_primary_text_color">#ffffff</color>
+    <color name="dialpad_secondary_text_color">#ffffff</color>
+    <color name="dialpad_icon_tint">#ffffff</color>
+    <color name="dialpad_voicemail_tint">#ffffff</color>
+
+    <!-- Exposed colors Phone Common -->
+    <color name="dialpad_separator_color">#e3e3e3</color>
+
+</resources>

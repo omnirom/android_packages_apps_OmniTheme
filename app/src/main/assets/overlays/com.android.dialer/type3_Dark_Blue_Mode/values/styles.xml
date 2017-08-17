@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dialer -->
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
+        <item name="android:colorForeground">@android:color/holo_blue_dark</item>
+        <item name="android:colorBackground">@android:color/holo_blue_dark</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:windowBackground">@*android:color/background_material_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">@android:color/holo_blue_bright</item>
+        <item name="android:textColorTertiary">#ffffff</item>
+    </style>
+
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:colorForeground">@android:color/holo_blue_dark</item>
+        <item name="android:colorBackground">@android:color/holo_blue_dark</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:windowBackground">@*android:color/background_material_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">@android:color/holo_blue_bright</item>
+        <item name="android:textColorTertiary">#ffffff</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorBackground">@android:color/background_dark</item>
+    </style>
+
+    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView" />
+
+    <style name="ContactListFilterTheme" parent="@android:style/Theme.Holo">
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+    </style>
+
+    <!-- Contacts Common -->
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
+</resources>
