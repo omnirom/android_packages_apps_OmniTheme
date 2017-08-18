@@ -46,4 +46,8 @@
     <color name="cardview_dark_background">@android:color/holo_blue_dark</color>
     <color name="cardview_shadow_start_color">#37ffffff</color>
     <color name="cardview_shadow_end_color">#03ffffff</color>
+
+    <!-- groups -->
+    <color name="group_list_background_color">@android:color/holo_blue_light</color>
+    <color name="secondary_header_separator_color">#00000000</color>
 </resources>
