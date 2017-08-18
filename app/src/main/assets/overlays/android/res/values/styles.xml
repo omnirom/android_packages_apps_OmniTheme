@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Material.Settings" parent="@*android:style/Theme.Material.Settings">
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
+    </style>
+    <style name="Theme.Material.Settings.DialogWhenLarge" parent="@*android:style/Theme.Material.Settings.DialogWhenLarge">
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
+    </style>
+</resources>
