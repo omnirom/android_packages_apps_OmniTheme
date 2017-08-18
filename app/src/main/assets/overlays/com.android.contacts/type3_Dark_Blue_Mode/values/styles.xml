@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Contacts -->
-    <style name="DetailActivityTheme" parent="@android:style/Theme.Material" />
-
     <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
 
     <style name="PeopleTheme1" parent="@android:style/Theme.Material">
