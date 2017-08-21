@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="calculator_accent_color">@android:color/holo_blue_bright</color>
-    <color name="display_background_color">@*android:color/background_dark</color>
+    <color name="display_background_color">@android:color/holo_blue_light</color>
     <color name="display_formula_text_color">#ffffffff</color>
     <color name="display_result_exponent_text_color">#ffffffff</color>
     <color name="display_result_text_color">#ffffffff</color>
