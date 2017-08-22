@@ -11,7 +11,6 @@
     <color name="custom_vector_tabbar_background_color">#FFF2F2F2</color>
     <color name="custom_vector_search_hint_color">#333C3C3C</color>
     <color name="custom_vector_text_gray_color">#FF9D9D9D</color>
-    <color name="custom_vector_dc_gray">#FFDCDCDC</color>
     <color name="custom_vector_21_black">#FF212121</color>
     <color name="custom_vector_80_gray">#FF808080</color>
     <color name="custom_vector_05_gray">#FFF2F2F2</color>
@@ -21,7 +20,7 @@
     <color name="drawer_background_color">#ffffff</color>
     <color name="drawer_icon_color">#FF4D4D4D</color>
     <color name="bottom_navigation_background">#ffffff</color>
-    <color name="filter_background">#ffffff</color>
+    <color name="header_footer_background">#FFF2F2F2</color>
     <color name="list_header_secondary_text_color">#4d3C3C3C</color>
     <color name="message_encryting">#dc000000</color>
     <color name="message_normal">#000000</color>
